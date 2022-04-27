@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="{{ asset('/css/bootstrap.min.css') }}" >
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap.min.css') }}" >
 
     <title>DShape - Site para avaliação fisica</title>
   </head>
